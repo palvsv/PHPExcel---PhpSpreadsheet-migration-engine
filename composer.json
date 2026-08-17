@@ -1,0 +1,12 @@
+{
+    "name": "trupal/excel-migrator",
+    "type": "project",
+    "require": {
+        "nikic/php-parser": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExcelMigrator\\": "src/"
+        }
+    }
+}
